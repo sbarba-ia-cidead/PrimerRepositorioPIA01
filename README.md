@@ -12,7 +12,7 @@ Primer repositorio para la tarea 1 de PIA.
 ## Código del archivo Python
    Contenido del archivo ***hola_mundo.py***:
 
-      ```print("Hola, Mundo!")```
+      `print("Hola, Mundo!")`
 		
    Este código utiliza la función *print()* para imprimir el mensaje *"Hola, Mundo!"* en la consola.
 
