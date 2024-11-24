@@ -1,4 +1,4 @@
-# PrimerRepositorioPIA01
+# Primer Repositorio PIA01
 Primer repositorio para la tarea 1 de PIA.
 
 ## Descripción
